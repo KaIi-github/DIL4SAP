@@ -120,5 +120,6 @@ This work is currently accepted by Transactions on Multimedia Computing, Communi
 
 ## Acknowledgements
 Thanks to Yinzi for her contribution to this work.
+
 Thanks to [PackNet](https://github.com/arunmallya/packnet) and [MDIL](https://github.com/prachigarg23/MDIL-SS) for their work.
 
